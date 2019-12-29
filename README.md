@@ -11,4 +11,6 @@ this out ATM.
 
 ## To-Do
 
-### Try with more MIDI USB devices and figure out why it didn't work with the OP-1
+### Try with more MIDI (and not) USB devices and figure out why it didn't work with the OP-1
+
+### Build another demo using WebMIDI (as opposed to the more general WebUSB)
