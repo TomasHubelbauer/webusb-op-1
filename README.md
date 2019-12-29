@@ -8,3 +8,7 @@ interface.
 Unfortunately, at this moment, with Chrome 75, the WebUSB API doesn't seem to
 recognize the OP-1 (or any other device I tried) so it's impossible to test
 this out ATM.
+
+## To-Do
+
+### Try with more MIDI USB devices and figure out why it didn't work with the OP-1
